@@ -49,16 +49,16 @@ civ_list = [
     discord.SelectOption(label="Kongo_Mbande",
                         emoji="<:KongoNzingaMbande:1065756652797689898>"),
 
-    discord.SelectOption(label="Inca-Pachacuti",
+    discord.SelectOption(label="Inca_Pachacuti",
                         emoji="<:IncaPachacuti:1065756628630118400>"),
 
     discord.SelectOption(label="Greece_Pericles",
                         emoji="<:GreecePericles:1065756622586138705>"),
 
-    discord.SelectOption(label="Gran-Colombia_Simon-Bolivar",
+    discord.SelectOption(label="GranColombia_Simon-Bolivar",
                          emoji="<:GranColombiaSimonBolivar:1065754592182272030>"),
 
-    discord.SelectOption(label="Nubia",
+    discord.SelectOption(label="Nubia_Amanitore",
                         emoji="<:NubiaAmanitore:1065811497181261894>"),
 
     discord.SelectOption(label="Khmer_Jayavarman",
